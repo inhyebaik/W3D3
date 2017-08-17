@@ -1,0 +1,20 @@
+* {
+  margin: auto;
+  padding: 0px;
+  border: 0px;
+  font-family: inherit;
+}
+
+li {
+  display: inherit;
+  text-align: inherit;
+
+}
+
+body {
+    line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
